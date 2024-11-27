@@ -1,0 +1,17 @@
+[W 23:35:24.274 NotebookApp] WARNING: The notebook server is listening on all IP addresses and not using encryption. This is not recommended.
+[I 23:35:24.277 NotebookApp] Serving notebooks from local directory: /home/ubuntu/.jupyter
+[I 23:35:24.277 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 23:35:24.277 NotebookApp] http://ip-172-31-55-202:8888/
+[I 23:35:24.277 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 23:35:51.919 NotebookApp] 302 GET / (142.122.73.90) 0.56ms
+[I 23:35:51.942 NotebookApp] 302 GET /tree? (142.122.73.90) 0.68ms
+[I 23:35:56.874 NotebookApp] 302 POST /login?next=%2Ftree%3F (142.122.73.90) 106.34ms
+[I 23:36:10.210 NotebookApp] Kernel started: 47cf6e52-d76f-42a3-84a8-150723f81bca, name: python3
+[I 23:36:21.318 NotebookApp] Starting buffering for 47cf6e52-d76f-42a3-84a8-150723f81bca:5714dea3f4f9415d811652a45c52522a
+[I 23:36:27.631 NotebookApp] Creating new notebook in /a4
+[I 23:36:28.408 NotebookApp] Kernel started: 5396ebe2-c819-414f-8bd3-e4820496b409, name: python3
+[I 23:36:38.679 NotebookApp] Saving file at /a4/Untitled1.ipynb
+[I 23:37:02.231 NotebookApp] Saving file at /a4/a4_1_1.ipynb
+[I 23:37:05.010 NotebookApp] Starting buffering for 5396ebe2-c819-414f-8bd3-e4820496b409:080014ed702644298ffaa9844d3c24bb
+[I 23:37:54.121 NotebookApp] Saving file at /a4/a4_1_1.ipynb
+[I 23:37:59.643 NotebookApp] Starting buffering for 5396ebe2-c819-414f-8bd3-e4820496b409:e0cb4be5ef9d4b228b67b6ca555ff409
